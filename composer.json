@@ -1,0 +1,11 @@
+{
+    "name": "migue/hello-world",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Miguel Naranjatec",
+            "email": "miguelangel@naranjatec.com"
+        }
+    ],
+    "require": {}
+}
